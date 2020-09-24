@@ -1,5 +1,6 @@
-# Keranjang-Belanja-PPL
+# Simple Cart App
+Aplikasi cart sederhana. Disadur dan dimodifikasi dari [https://github.com/kodeid-resources/simple-cart-app](https://github.com/kodeid-resources/simple-cart-app)
 
-## Nama     : Rahmad Alfian Maskuri
-## Nim      : 1841720048
-## No Absen : 22
+# Acknowledgment
+[Riza Fahmi](https://github.com/rizafahmi)
+
